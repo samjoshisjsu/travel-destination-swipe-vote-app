@@ -1,0 +1,14 @@
+{
+  "name": "swipe-vote-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n server,client -c blue,green \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "seed": "npm --prefix server run seed",
+    "reset-db": "npm --prefix server run reset-db"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
