@@ -1,6 +1,6 @@
 # DestinationSwipe — CMPE 285 Final Project
 
-> **Theme:** "Which AI-generated travel destination would you visit?"  
+> **Theme:** "Which travel destination would you visit?"  
 > A mobile-first swipe-to-vote web app with 100 fictional travel destinations.
 
 ---
