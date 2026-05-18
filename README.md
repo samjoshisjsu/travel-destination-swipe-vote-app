@@ -1,4 +1,4 @@
-# DestinationSwipe — CMPE 285 Final Project
+# DestinationSwipe — CMPE 285 Final exam project
 
 > **Theme:** "Which travel destination would you visit?"  
 > A mobile-first swipe-to-vote web app with 100 fictional travel destinations.
